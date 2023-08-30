@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @makayasa
 - 👀 I’m interested in Mobile App with Flutter
-- 🌱 I’m currently learning Flutter with GetX
+- 🌱 I’m currently working as a Flutter Dev with GetX ecosystem
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [email : rifqimakayasa@gmail.com, instagram : @makayasa_]
 
